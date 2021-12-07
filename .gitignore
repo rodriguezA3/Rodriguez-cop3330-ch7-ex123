@@ -1,0 +1,6 @@
+gitignored files
+/.out
+/.vs
+Build
+.vscode/settings.json
+*.exe
